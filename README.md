@@ -1,3 +1,7 @@
+# FTC Imperial Robotics
+
+The blog for FTC 3734. Uses [Jekyll Bootstrap](http://jekyllbootstrap.com), whose readme is below.
+
 # Jekyll-Bootstrap
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
