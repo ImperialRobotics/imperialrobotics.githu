@@ -22,3 +22,8 @@ And I'm [a link to Google](https://google.com/).
 And this is a cat.
 
 ![here's a cute kitty](http://exmoorpet.com/wp-content/uploads/2012/08/cat.png)
+
+{% highlight bash %}
+git clone https://github.com/ImperialRobotics/ImperialRobotics.github.io # Clone us on Github
+{% endhighlight %}
+
