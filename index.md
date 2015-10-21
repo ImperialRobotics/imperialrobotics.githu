@@ -9,9 +9,9 @@ This is the official engineering notebook for FTC team 3734 "Imperial Robotics",
 
 Let's hope things go over well with this... and that people actually use it. ;)
 
-```java
+{% highlight java %}
 System.out.println("Hey, guys! Look! I'm some code!");
-```
+{% endhighlight %}
 
 And I'm some **bold text**.
 
