@@ -1,46 +1,24 @@
 ---
 layout: page
-title: Good Morning, Earth!
-tagline: Yay!
+title: Imperial Robotics (FTC 3734)
+tagline: Engineering Notebook
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+This is the official engineering notebook for FTC team 3734 "Imperial Robotics", competing in the FIRST Tech Challenge RES-Q 2015.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+Let's hope things go over well with this... and that people actually use it. ;)
 
-## Update Author Attributes
+```java
+System.out.println("Hey, guys! Look! I'm some code!");
+```
 
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+And I'm some **bold text**.
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
+And I'm some _italic text_.
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
+And I'm [a link to Google](https://google.com/).
 
-    $ rm -rf _posts/core-samples
+And this is a cat.
 
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
-
+![here's a cute kitty](http://exmoorpet.com/wp-content/uploads/2012/08/cat.png)
