@@ -27,3 +27,5 @@ And this is a cat.
 git clone https://github.com/ImperialRobotics/ImperialRobotics.github.io # Clone us on Github
 {% endhighlight %}
 
+(Site set up by Eliot Partridge)
+
