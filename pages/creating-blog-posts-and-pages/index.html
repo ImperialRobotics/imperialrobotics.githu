@@ -29,11 +29,16 @@ description: "Easy-to-understand documentation on using Jekyll Bootstrap"
 <ul>
 	<li><a href="http://rubyinstaller.org/downloads/">Ruby 2.2.3</a></li>
 	<li>Git / Github Desktop</li>
-	<ul>
-		<li>A local clone of this repository</li>
-	</ul>
 	<li>Knowledge of the <a href="https://daringfireball.net/projects/markdown/syntax">Markdown</a> language</li>
 	<li>A text editor (I recommend <a href="http://atom.io">Atom</a>)</li>
+	<li>
+		<p>
+			A local clone of this repository, obtained with the following command:
+		</p>
+		{% highlight bash %}
+		git clone https://github.com/ImperialRobotics/imperialrobotics.github.io
+		{% endhighlight %}
+	</li>
 </ul>
 
 <h2 id="blog-post">Creating a blog post</h2>
@@ -44,15 +49,7 @@ description: "Easy-to-understand documentation on using Jekyll Bootstrap"
 <ol>
 	<li>
 		<p>
-			Clone this Github repository if you haven't already using the following command:
-		</p>
-		{% highlight bash %}
-		git clone https://github.com/ImperialRobotics/imperialrobotics.github.io
-		{% endhighlight %}
-	</li>
-	<li>
-		<p>
-			Change your working directory to the newly cloned repository:
+			Change your working directory to your local working copy of this repository:
 		</p>
 		{% highlight bash %}
 		cd imperialrobotics.github.io
@@ -78,7 +75,7 @@ description: ""
 category: ""
 tags: []
 ---
-{ % include JB/setup % }
+{ %include JB/setup% }
 
 		{% endhighlight %}
 	</li>
@@ -105,7 +102,7 @@ tags: []
 	</li>
 	<li>
 		<p>
-			... then push them globally when you're done:
+			... then push them globally when you're done, following the on screen prompts to complete the proces:
 		</p>
 		{% highlight bash %}
 		git push
@@ -113,4 +110,6 @@ tags: []
 	</li>
 </ol>
 <h3 id="explorer-post">Using Explorer</h3>
-<p>Coming soon...</p>
+<ol>
+	<li></li>
+</ol>
