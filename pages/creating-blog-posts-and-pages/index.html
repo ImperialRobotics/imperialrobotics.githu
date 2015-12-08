@@ -112,4 +112,62 @@ tags: []
 <h3 id="explorer-post">Using Explorer</h3>
 <ol>
 	<li>Navigate to your local clone of this repository</li>
+	<li>
+		<p>
+			Copy an existing post from the <code>_posts</code> directory, and rename it in a format identical to the format below:
+		</p>
+		<code>
+			YYYY-MM-DD-title-goes-here-spaces-are-hyphens.md
+		</code>
+	</li>
+	<li>
+		<p>
+			Open the newly created file. Its contents should look something like this:
+		</p>
+		{% highlight yaml %}
+---
+layout: post
+title: "post title"
+description: ""
+category: ""
+tags: []
+---
+{ %include JB/setup% }
+
+		{% endhighlight %}
+	</li>
+	<li>
+		<p>
+			Edit the newly created file, filling out the description section with a short description of the new post between the quotes, the tags section by adding new tags, seperated by commas, in quotes, similar to this exapmle: <code>tags: ["test", "post"]</code>, and the actual body content by placing your desired content <b>TWO</b> lines below the final line in the new file.  This will require knowledge of the Markdown syntax as stated above in the <a href="#prerequisites">Prerequisites</a> section.
+		</p>
+	</li>
+	<li>
+		<p>
+			Add your changes to staging:
+		</p>
+		{% highlight bash %}
+		git add *
+		{% endhighlight %}
+	</li>
+	<li>
+		<p>
+			... and then commit them:
+		</p>
+		{% highlight bash %}
+		git commit -m "explanatory commit message goes here"
+		{% endhighlight %}
+	</li>
+	<li>
+		<p>
+			... then push them globally when you're done, following the on screen prompts to complete the proces:
+		</p>
+		{% highlight bash %}
+		git push
+		{% endhighlight %}
+	</li>
 </ol>
+
+<h2 id="blog-page">Creating a blog page</h2>
+<h3 id="ruby-page">Using Ruby</h3>
+<h4 id="method-1">Method 1</h4>
+<p><i>Coming soon...</i></p>
