@@ -12,10 +12,11 @@ title : Imperial Robotics
 tagline: Site
 author :imperial robotics
   name : Imperial Robotics
-title: email 
-tagline : imperialrobotics3734@gmail.com
+  tagline : contact information 
+  email : imperialrobotics3734@gmail.com
   github : ImperialRobotics
   twitter : FTC_IR_3734
+  feedburner : feedname
   
 
 # The production_url is only used when full-domain names are needed
