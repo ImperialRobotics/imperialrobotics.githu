@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Hypothetical First Post
+description: "We're live!"
+category: "Journal"
+tags: ["Journal", "Post"]
+---
+{% include JB/setup %}
+
+Competition Day is today!
+
+
+
