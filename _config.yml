@@ -1,15 +1,12 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: Imperial Robotics
+description: FTC Team 3734
+author: Imperial Robotics
 logo: /static/img/avatar.png
-github: https://github.com/ashutosh2k12
-about: Freelance developer
+github: https://github.com/ImperialRobotics
+about: Dallas, TX FTC team
 
 baseurl: ""
-url: "http://aboutashu.com/hcz-jekyll-blog"
-
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+url: "http://imperialrobotics.github.io"
 
 share:
   twitter_username: \#
