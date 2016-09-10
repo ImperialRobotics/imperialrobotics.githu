@@ -1,18 +1,10 @@
 [
   {
-    "icon": "fa-facebook",
-    "link": ""
+    "icon": "fa-instagram",
+    "link": "https://www.instagram.com/imperialrob3734/"
   },
   {
     "icon": "fa-twitter",
-    "link": ""
+    "link": "https://twitter.com/imperialrob3734"
   },
-  {
-    "icon": "fa-linkedin",
-    "link": ""
-  },
-  {
-    "icon": "fa-stack-exchange",
-    "link": ""
-  }
 ]
