@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for this Jekyll theme at: [github.com/ashutosh2k12/hcz-jekyll-blog](https://github.com/ashutosh2k12/hcz-jekyll-blog)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+This is the FTC team 3734 located at the School of Science and Engineering in Dallas, TX. Our mission is to spread
+robotics in the world so that people learn how fun and engaging the robotics competitions of FIRST are. This year,
+we hope to participate in several communtiy service projects and build a robot using the help of the community. We
+want to bring everyone together to create something that is truely revolutional.
