@@ -12,15 +12,19 @@ want to bring everyone together to create something that is **truely revolutiona
 
 Team Members:
 
+
 Captian: Austin Davis(11th)
+
 
 Developer: Abhijit Bhattaru(10th)
 
-Proggramers:
+
+Programers:
 
 Project lead: Rohit Shankar(10th)
 
 Maximo Mateo(10th)
+
 
 Build Team:
 
