@@ -1,13 +1,13 @@
 [
   {
-    "text": "Home",
-    "url": "/about/",
+    "text": "Blog",
+    "url": "/",
     "icon": "fa-home",
     "layout": "post"
   },
   {
     "text": "About",
-    "url": "/",
+    "url": "/about/",
     "icon": "fa-comments"
   }
 ]
