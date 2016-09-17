@@ -1,24 +1,13 @@
 [
   {
-    "text": "Home",
+    "text": "Blog",
     "url": "/",
-    "icon": "fa-home",
+    "icon": "fa-blog",
     "layout": "post"
   },
   {
     "text": "About",
     "url": "/about/",
     "icon": "fa-comments"
-  },
-  {
-    "text": "Projects",
-    "url": "/projects",
-    "icon": "fa-desktop"
-  },
-  {
-    "text": "Resume",
-    "url": "#",
-    "icon": "fa-graduation-cap",
-    "layout": "post"
   }
 ]
