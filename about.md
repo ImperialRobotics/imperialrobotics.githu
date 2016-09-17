@@ -16,13 +16,10 @@ Captian: Austin Davis(11th)
 Developer: Abhijit Bhattaru(10th)
 
 Proggramers:
-
 Project lead: Rohit Shankar(10th)
-
 Maximo Mateo(10th)
 
 Build Team:
-
 Build Lead: Christian Saldaña(10th)
-
+Brandon Alba
 Dalia Quezaba(11th)
