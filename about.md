@@ -25,11 +25,11 @@ Project lead: Rohit Shankar(10th)
 
 Maximo Mateo(10th)
 
+Robin Delgado(9th)
+
 
 Build Team:
 
 Build Lead: Christian Saldaña(10th)
 
-Brandon Alba
-
-Dalia Quezaba(11th)
+Brandon Alba(11th)
