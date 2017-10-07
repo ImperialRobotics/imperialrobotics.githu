@@ -12,26 +12,15 @@ want to bring everyone together to create something that is **truely revolutiona
 
 Team Members:
 
+Rohit Shankar(11th)
 
-Captian: Austin Davis(11th)
+Maximo Mateo(11th)
 
+Robin Delgado(10th)
 
-Developer: Abhijit Bhattaru(10th)
+Christian Saldaña(11th)
 
+Britney Ramirez(11th)
 
-Programers:
+Justin Bonsell(9th)
 
-Project lead: Rohit Shankar(10th)
-
-Maximo Mateo(10th)
-
-Robin Delgado(9th)
-
-
-Build Team:
-
-Build Lead: Christian Saldaña(10th)
-
-Brandon Alba(11th)
-
-Charlotte Leakey(10th)
